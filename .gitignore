@@ -1,2 +1,8 @@
 build/
 result/
+.cache/
+
+compile_commands.json
+*.jdebug.user
+
+.DS_Store
